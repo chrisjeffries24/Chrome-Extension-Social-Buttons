@@ -106,8 +106,8 @@
 
     </style>
 
-</head>
-<body>
+
+
     <div class="modal-header">
         <h1 class="logo">
             <img src="images/Alphi_logo.png" alt="Alphi Launcher" class="logo-icon">Alphi Launcher
