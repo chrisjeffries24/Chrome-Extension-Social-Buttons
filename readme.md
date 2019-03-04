@@ -1,11 +1,6 @@
 <h1>Chrome-Extension-Social-Buttons</h1>
 
-
-<div class="flex">
-                        <a href="https://www.facebook.com/alphicreative" target="_blank">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-
+Simple chrome extension for sharing social contacts.
 
 
 
